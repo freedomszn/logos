@@ -1,0 +1,11 @@
+{
+  "name": "USDT",
+  "symbol": "USDT",
+  "description": "USDT",
+  "image": "https://raw.githubusercontent.com/freedomszn/logos/main/logo.svg",
+  "attributes": [],
+  "properties": {
+    "files": [{ "uri": "https://raw.githubusercontent.com/freedomszn/logos/main/logo.svg", "type": "image/svg" }],
+    "category": "image"
+  }
+}
